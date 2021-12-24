@@ -1,0 +1,16 @@
+[24/Dec/2021:10:29:14] (I): WordPress Instance Info:
+[24/Dec/2021:10:29:14] (I): Home URL : http://localhost/wp
+[24/Dec/2021:10:29:14] (I): Site URL : http://localhost/wp
+[24/Dec/2021:10:29:14] (I): WordPress Version : 5.8.2
+[24/Dec/2021:10:29:14] (I): Onboarding Version : 1.1.18
+[24/Dec/2021:10:29:14] (I): Multisite : No
+[24/Dec/2021:10:29:14] (I): Server Info : Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/7.4.23
+[24/Dec/2021:10:29:14] (I): PHP Version : 7.4.23
+[24/Dec/2021:10:29:14] (I): HTTPS : No
+[24/Dec/2021:10:29:14] (I): PHP Max Execution Time : 120
+[24/Dec/2021:10:29:14] (I): PHP Max Input Vars : 1000
+[24/Dec/2021:10:29:14] (I): Max Upload Size : 41943040
+[24/Dec/2021:10:29:14] (I): Plugins:
+[24/Dec/2021:10:29:14] (I): [PLUGIN] المنتور : v3.5.1 (Elementor.com)
+[24/Dec/2021:10:29:14] (I): [PLUGIN] Elementor Header &amp; Footer Builder : v1.6.4 (Brainstorm Force, Nikhil Chavan)
+[24/Dec/2021:10:29:14] (I): [PLUGIN] Templates Patterns Collection : v1.1.18 (ThemeIsle)
